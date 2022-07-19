@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "username":"משה",
+        "password":"1234",
+        "status":"manager"
+    },
+    {
+        "id":2,
+        "username":"אסתר",
+        "password":"7410",
+        "status":"manager"
+    },
+    {
+        "id":3,
+        "username":"A",
+        "password":"456",
+        "status":"customer"
+    },
+    {
+        "id":4,
+        "username":"בתשבע",
+        "password":"1414",
+        "status":"customer"
+    }
+]

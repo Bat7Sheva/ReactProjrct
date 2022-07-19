@@ -1,0 +1,14 @@
+.tools{
+    display: flex;
+    /* justify-content: space-between;
+    background-color: blueviolet;
+    color: chartreuse; */
+    justify-content: center
+
+
+}
+h1{
+    margin: auto;
+    text-align: center;
+
+}

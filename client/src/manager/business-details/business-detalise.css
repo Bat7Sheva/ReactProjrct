@@ -1,0 +1,30 @@
+.serviceListClass{
+width: 30%;
+margin: 2%!important;
+}
+.button-add-service{
+    width: 15%;
+    float: right;
+    margin: 2%!important;
+    margin-right:250px!important;
+}
+
+h1{
+    margin: auto;
+    text-align: center;
+
+}
+input{
+    width: 15%;
+}
+.detalis{
+    visibility:hidden
+}
+.update{
+    width:40%;
+    border:solid;
+    border-color: rgb(141, 141, 143);
+}
+.margin{
+    margin: 2%!important;
+}
